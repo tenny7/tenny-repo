@@ -1,4 +1,8 @@
 # tenny-repo
+* i just uploaded a recent file called goldenaira. This is what you should use. I discovered a potential bug in the upliftas i uploaded ealier. 
+
+
+
 *the file named upliftas.sql is the database configuration file
 *the file upliftaas.zip is the website file
 *In upliftaas.zip, there is a folder called 'application', open this folder and navigate to 'config' folder, open the config folder also. You will see some files listed there. 
